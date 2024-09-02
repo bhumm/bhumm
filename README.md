@@ -1,5 +1,5 @@
-I’m interested in computational biology, oncology, and assay design. I’m currently learning R, Python, SQL, and shell. I’m looking to collaborate on NGS and proteomic analyses and development of bioinformatic software and tools.
-How to reach me hummer.blake@gmail.com
+I’m interested in computational biology, oncology, and assay design. I’m currently learning Java/Groovy, C/C++, and other general computer science concepts. I’m looking to collaborate on NGS and proteomic analyses and development of bioinformatic software and tools.
+How to reach me hummer(dot)blake(at)gmail.com
 Check out my webpage at https://bhummerpersonalwebpage.on.drv.tw/Website/
 
 <!---
